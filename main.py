@@ -1,3 +1,8 @@
+
+"""Ref: Autonomous Cars: Deep Learning and Computer Vision in Python (Udemy)
+"""
+
+
 import matplotlib.image as mpimg
 import matplotlib.pyplot as plt
 import numpy as np
